@@ -26,8 +26,9 @@ SECRET_KEY = 'django-insecure-_a4i$kocr45&$##&-c9v(fxh43qu&6%l(#33!jkxx14c8_d2!i
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '.ap-northeast-2.compute.amazonaws.com'
-    #해윙
+    '.ap-northeast-2.compute.amazonaws.com',
+    "likelion-ssu-todolist",
+    
 ]
 
 
